@@ -26,7 +26,7 @@ The instructions below describe the steps to follow to successfully [install](#i
     username@genomedkfrontend:~$ cd workspace
     ```
 
-5. Download an Anaconda installation file for Linux 64 bit by executing the following (replace `<version>` with the version of Anaconda of interest):
+5. Download an Anaconda installation file for Linux 64 bit by executing the following (replace `<version>` with [the version of Anaconda](https://repo.anaconda.com/archive/) of interest):
 
     ```bash
     username@genomedkfrontend:~/workspace$ wget https://repo.anaconda.com/archive/Anaconda3-<version>-Linux-x86_64.sh
